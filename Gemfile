@@ -48,4 +48,4 @@ gem "jwt"
 
 gem "active_model_serializers"
 
-gem "nokogiri", '~> 1.8.5'
+gem "nokogiri", '~> 1.11.4'
